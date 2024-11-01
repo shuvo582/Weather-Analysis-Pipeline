@@ -1,5 +1,6 @@
 # Weather-Analysis-Pipeline
 
+```
 github-username/
 ├── weather-analysis-pipeline/
 │   ├── src/
@@ -13,3 +14,5 @@ github-username/
 │   └── README.md
 ├── other-projects/
 └── portfolio-website/
+```
+
